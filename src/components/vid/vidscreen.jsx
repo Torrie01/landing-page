@@ -10,7 +10,7 @@ export default function vidscreen({ toggleSent }) {
           <p class='mt-10 text-base font-sora'>Name</p>
           <span class='flex items-center'>
             <p class='text-primary-400 text-2xl font-semibold'>
-              Untitled_Video_20232509{' '}
+              {' '}
             </p>
             <svg
               xmlns='http://www.w3.org/2000/svg'
@@ -40,7 +40,7 @@ export default function vidscreen({ toggleSent }) {
           <p class='mt-10 text-sora font-semibold'>Video Url</p>
           <div class='flex h-68 bg-copy rounded-2xl w-550 items-center justify-between'>
             <p class='text-base font-def text-internals '>
-              https://www.helpmeout/Untitled_Video_20232509
+              
             </p>
             <span class='flex cursor-pointer items-center mr-2 justify-center w-24 h-11  border-2 rounded-lg border-primary-300'>
               <svg
